@@ -5,8 +5,8 @@
     "packageVersions": {},
     "actionVersions": {
       "sample/testfunc": {
-        "digest": "9cd3560ab093832633c1728608f6573f968f8e5a60c9ab23c86a99bb1ec7a7c4",
-        "version": "0.0.18"
+        "digest": "f15c6df4d6e9593669f2381e002d2bcbc4b03dd7a477207e9f7355d6ab452ad4",
+        "version": "0.0.22"
       }
     }
   }
